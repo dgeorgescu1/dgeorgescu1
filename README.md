@@ -2,6 +2,11 @@
 Denis Georgescu</a></h1>
 <h3 align="center">A recently graduated physics student interested in data science and software development </h3>
 
+
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+
 <!--
 **dgeorgescu1/dgeorgescu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

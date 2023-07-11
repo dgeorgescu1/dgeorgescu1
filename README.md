@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/dgeorgescu1" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/denis-georgescu/" target="blank">
 Denis Georgescu</a></h1>
 <h3 align="center">A recently graduated physics student interested in data science and software development </h3>
 

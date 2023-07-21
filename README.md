@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/denis-georgescu/" target="blank">
 Denis Georgescu</a></h1>
-<h3 align="center">A recently graduated physics student interested in data science and software development </h3>
+<h3 align="center">A recently graduated physics student interested in data science</h3>
 
 
 <img align="right" top="500" height="300" width="400" alt="GIF" src="facegif.gif">

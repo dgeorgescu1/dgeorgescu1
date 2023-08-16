@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/denis-georgescu/" target="blank">
-Denis Georgescu</a></h1>
+Denis Georgescu</a></h1> https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <h3 align="center">A recently graduated physics student interested in data science</h3>
 
 
@@ -11,6 +11,7 @@ Denis Georgescu</a></h1>
 - 🌱 I'm very keen on supporting the environment
 - 🗻 I'm an avid outdoor rock climber 
 - 😄 Pronouns: He/Him
+
 
 <!--
 **dgeorgescu1/dgeorgescu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,8 @@ Denis Georgescu</a></h1>
 <img align="right" top="500" height="300" width="400" alt="GIF" src="facegif2.gif">
 </a>
 
-- 🔭 I’m currently working on ...
+
+- 🔭 I’m currently working on machine learning projects to ability to use standard ML packages
 
 
 <!--

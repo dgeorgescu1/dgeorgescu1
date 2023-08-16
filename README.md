@@ -6,6 +6,8 @@ Denis Georgescu</a></h1>
 <img align="right" top="500" height="300" width="400" alt="GIF" src="facegif2.gif">
 </a>
 
+- 🔭 I’m currently working on ...
+
 
 <!--
 **dgeorgescu1/dgeorgescu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

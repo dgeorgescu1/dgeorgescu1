@@ -3,7 +3,7 @@ Denis Georgescu</a></h1>
 <h3 align="center">A recently graduated physics student interested in data science</h3>
 
 
-<img align="right" top="500" height="300" width="400" alt="GIF" src="facegif.gif">
+<img align="right" top="500" height="300" width="400" alt="GIF" src="facegif2.gif">
 </a>
 
 

@@ -13,7 +13,7 @@ Denis Georgescu</a></h1>
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/denis-georgescu/)
-[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="40em" align="center" alt="Email me here" title="Email me here"/>](denis.georgescu1@outlook.com)
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="40em" align="center" alt="Email me here" title="Email me here"/>](mailto:denis.georgescu1@outlook.com)
 
 
 

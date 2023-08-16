@@ -17,7 +17,7 @@ Denis Georgescu</a></h1>
 
 
 
-- 🔭 I’m currently learning and gaining proffiecieny with standrd ML libraries
+- 🔭 I’m currently learning and gaining proficiency with standrd ML libraries
 - 🌱 I'm very keen on supporting the environment
 - 🗻 I'm an avid outdoor rock climber 
 - 😄 Pronouns: He/Him

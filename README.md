@@ -7,8 +7,10 @@ Denis Georgescu</a></h1>
 </a>
 
 
-- 🔭 I’m currently working on machine learning projects to ability to use standard ML packages
-
+- 🔭 I’m currently learning and gaining proffiecieny with standrd ML libraries
+- 🌱 I'm very keen on supporting the environment
+- 🗻 I'm an avid outdoor rock climber 
+- 😄 Pronouns: He/Him
 
 <!--
 **dgeorgescu1/dgeorgescu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

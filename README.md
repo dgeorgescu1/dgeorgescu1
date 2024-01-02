@@ -17,7 +17,7 @@ Denis Georgescu</a></h1>
 
 
 
-- 🔭 I’m currently learning and gaining proficiency with standrd ML libraries
+- 🔭 I’m currently learning and gaining proficiency with standard ML libraries
 
 <a href = 'https://www.python.org/' target = '_blank'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" title = 'Python'> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60" title = 'Scikit-learn'/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60" title = 'TensorFlow'/> </a> <a href = 'https://seaborn.pydata.org/' target = '_blank'> <img src = 'https://seaborn.pydata.org/_images/logo-mark-lightbg.svg' alt = 'Seaborn' width = '60' height = '60' title = 'Seaborn'/>
 

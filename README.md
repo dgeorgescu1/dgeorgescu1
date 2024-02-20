@@ -17,7 +17,6 @@ Denis Georgescu</a></h1>
 
 - 🌱 I'm very keen on supporting the environment
 - 🗻 I'm an avid outdoor rock climber 
-- 😄 Pronouns: He/Him
 
 
 <!--

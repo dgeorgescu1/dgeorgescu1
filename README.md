@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/denis-georgescu/" target="blank" alt="Follow Denis on LinkedIn" title="Follow Denis on LinkedIn">
 Denis Georgescu</a></h1>
-<h3 align="center">I Like Data Science</h3>
+<h3 align="center">Data Science</h3>
 
 
 
